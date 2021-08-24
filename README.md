@@ -156,7 +156,7 @@ Creating and Scaling a Service :
 
 This will result in creating 10 instances of rudy attack running with 2000 connections will result in 20,000 connections. This can also lead to consuming lot of memory.
 
-### Staying Anonumous : 
+### Staying Anonymous : 
 
 Use `-p, --useTor` to make requests using tor node.
 IP Address will be anonymous (tor exit node)
